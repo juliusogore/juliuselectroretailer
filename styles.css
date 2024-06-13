@@ -1,0 +1,92 @@
+                                                                                                                body {
+                                                                                                                font-family: Arial, sans-serif;
+                                                                                                                margin: 50;
+                                                                                                                padding: 50;
+                                                                                                                background-color: #f7f7f7;
+                                                                                                                /* changed background color to a light gray */
+                                                                                                            }
+                                                                                                            
+                                                                                                            header {
+                                                                                                                background-color: #333;
+                                                                                                                color: #fff;
+                                                                                                                padding: 1em;
+                                                                                                                text-align: center;
+                                                                                                            }
+                                                                                                            
+                                                                                                            nav ul {
+                                                                                                                list-style: none;
+                                                                                                                margin: 50;
+                                                                                                                padding: 50;
+                                                                                                                display: flex;
+                                                                                                                justify-content: space-between;
+                                                                                                            }
+                                                                                                            
+                                                                                                            nav li {
+                                                                                                                margin-right: 20px;
+                                                                                                            }
+                                                                                                            
+                                                                                                            nav a {
+                                                                                                                color: #fff;
+                                                                                                                text-decoration: none;
+                                                                                                            }
+                                                                                                            
+                                                                                                            nav a:hover {
+                                                                                                                color: #ccc;
+                                                                                                            }
+                                                                                                            
+                                                                                                            main {
+                                                                                                                display: flex;
+                                                                                                                flex-wrap: wrap;
+                                                                                                                justify-content: center;
+                                                                                                                padding: 2em;
+                                                                                                            }
+                                                                                                            
+                                                                                                            section {
+                                                                                                                flex-basis: 60%;
+                                                                                                                margin: 50px;
+                                                                                                                background-color: #fff;
+                                                                                                                /* added white background to sections */
+                                                                                                                border: 1px solid #ddd;
+                                                                                                                /* added border to sections */
+                                                                                                                padding: 50px;
+                                                                                                                border-radius: 10px;
+                                                                                                                /* added rounded corners to sections */
+                                                                                                            }
+                                                                                                            
+                                                                                                            h2 {
+                                                                                                                margin-top: 0;
+                                                                                                                color: #337ab7;
+                                                                                                                /* changed font color to a blue shade */
+                                                                                                            }
+                                                                                                            
+                                                                                                            ul {
+                                                                                                                list-style: none;
+                                                                                                                padding: 1;
+                                                                                                                margin: 5;
+                                                                                                            }
+                                                                                                            
+                                                                                                            li {
+                                                                                                                margin-bottom: 50px;
+                                                                                                            }
+                                                                                                            
+                                                                                                            a {
+                                                                                                                text-decoration: none;
+                                                                                                                color: #337ab7;
+                                                                                                                /* changed font color to a blue shade */
+                                                                                                            }
+                                                                                                            
+                                                                                                            a:hover {
+                                                                                                                color: #23527c;
+                                                                                                                /* changed hover color to a darker blue shade */
+                                                                                                            }
+                                                                                                            
+                                                                                                            img {
+                                                                                                                width: 50px;
+                                                                                                                height: 50px;
+                                                                                                                margin-right: 10px;
+                                                                                                                vertical-align: middle;
+                                                                                                            }
+                                                                                                            
+                                                                                                            footer {
+                                                                                                                background-color: #333;
+                                                                                                                color:
